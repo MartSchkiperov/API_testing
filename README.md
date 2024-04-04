@@ -1,2 +1,2 @@
 # API_testing
-Cerebrum Hub API courses testing result
+Cerebrum Hub testing course API testing result
